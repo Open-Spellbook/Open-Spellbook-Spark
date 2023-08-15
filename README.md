@@ -1,3 +1,10 @@
+# Open Spellbook
+Welcome to the Open Spellbook Sparksql/databricks version!  This project aims to return the Dune Spellbook dbt project to being an open-source MIT-licensed project. In the organization, we have repos for different SQL/cloud provider versions being maintained.  This is the SparkSQL & Databricks version, which is the sql engine Dune used to run the project.  It was forked on May 30th as the last MIT-licensed version of the original Spellbook. The creation of dependencies, including decoded events and functions, can be found in the Spellbook Decodes BQ DBT project repo (To Do: add the repo), but is written in BQ syntax so a SparkSQL version would be a great addition. Also, please note that additional data is required to run all sections of the Open Spellbook.
+
+## Contributors
+We would love to make this a community effort and add additional maintainers.  Please join our Discord here: https://discord.gg/hNbNTy7v to join in the discussion and help us build the project you want to see!
+
+## Below is the original spellbook Readme 
 ![spellbook-logo@10x](https://user-images.githubusercontent.com/2520869/200791687-76f1bc4f-05d0-4384-a753-e3b5da0e7a4a.png#gh-light-mode-only)
 ![spellbook-logo-negative_10x](https://user-images.githubusercontent.com/2520869/200865128-426354af-8059-494d-83f7-46947aae271c.png#gh-dark-mode-only)
 
